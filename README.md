@@ -14,3 +14,14 @@
 6. git push
 
 7. go to https://$YourAccount.github.io/
+
+
+#Problems with gem and bundle
+
+    - gem updata --system
+
+    - bundle update
+
+#Build site in local 
+
+    - $(jekyll serve)
