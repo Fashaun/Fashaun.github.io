@@ -1,7 +1,7 @@
 
 #Setup default github pages domain name (via your account)
 
-1. Create Empty Repository on github. (No README.md) and it's name is "$YourAccount.github.io"
+1. Create Empty Repository on github. (No README.md) and the respository name is "$YourAccount.github.io"
 
 2. $(git clone ${COLONE_URL})
 
